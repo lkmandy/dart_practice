@@ -1,0 +1,10 @@
+name: dartCheatSheetExercises
+description: Solutions to the official dart cheat sheet exercises
+version: 1.0.0
+# homepage: https://www.example.com
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies: 
+  collection: ^1.15.0
